@@ -1,0 +1,22 @@
+html{
+   scroll-behavior: smooth; 
+}
+body{
+    background: #272727;
+    color: white;
+}
+a{
+    color: orange;
+}
+section{
+    height: 100vh;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
